@@ -1,0 +1,2 @@
+solidNorm = solid;
+

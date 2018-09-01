@@ -1,0 +1,2 @@
+lookingColor = c_maroon;
+
